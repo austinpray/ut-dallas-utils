@@ -1,9 +1,9 @@
-UT Dallas Utils
+UT Dallas Utils [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 =========================
 
 A collection of JSON API endpoints for UT Dallas.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Dependency Status](https://david-dm.org/austinpray/ut-dallas-utils.svg?style=flat)](https://david-dm.org/austinpray/ut-dallas-utils)
 
 # Public API
 
