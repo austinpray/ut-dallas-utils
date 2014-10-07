@@ -3,6 +3,8 @@ UT Dallas Utils
 
 A collection of JSON API endpoints for UT Dallas.
 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
 # Public API
 
 base: http://ut-dallas-utils.herokuapp.com

@@ -1,0 +1,6 @@
+{
+  "name": "UT Dallas Utils",
+  "description": "A collection of JSON API endpoints for UT Dallas",
+  "repository": "https://github.com/austinpray/ut-dallas-utils",
+  "keywords": ["utd", "whoosh"]
+}
