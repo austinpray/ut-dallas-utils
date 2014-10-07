@@ -23,7 +23,7 @@ Checks if a person is in the [UTD Student Directory](http://www.utdallas.edu/dir
 }
 ```
 
-### Example usecase
+### Example use case
 
 This endpoint is used over at https://github.com/austinpray/UTDFFS-helper to automate the verification of people who want to join the [UT Dallas Free & For Sale 2.0](https://www.facebook.com/groups/UTDFFS) Facebook page.
 
