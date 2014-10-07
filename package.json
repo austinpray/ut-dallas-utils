@@ -1,14 +1,14 @@
 {
-  "name": "ut-dallas-student-checker",
-  "version": "1.0.0",
-  "description": "ut-dallas-student-checker =========================",
+  "name": "ut-dallas-utils",
+  "version": "0.1.0",
+  "description": "ut-dallas-utils =========================",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/austinpray/ut-dallas-student-checker.git"
+    "url": "https://github.com/austinpray/ut-dallas-utils.git"
   },
   "keywords": [
     "ut",
@@ -17,9 +17,9 @@
   "author": "Austin Pray <austin@austinpray.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/austinpray/ut-dallas-student-checker/issues"
+    "url": "https://github.com/austinpray/ut-dallas-utils/issues"
   },
-  "homepage": "https://github.com/austinpray/ut-dallas-student-checker",
+  "homepage": "https://github.com/austinpray/ut-dallas-utils",
   "dependencies": {
     "jsdom": "^1.0.1",
     "request": "^2.45.0",
