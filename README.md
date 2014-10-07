@@ -1,7 +1,7 @@
 UT Dallas Utils
 =========================
 
-A collection of JSON api endpoints for UT Dallas. Because 
+A collection of JSON API endpoints for UT Dallas.
 
 # Public API
 
